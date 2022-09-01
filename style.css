@@ -1,0 +1,42 @@
+a:link, a:visited{
+    text-decoration: none;
+    color: #F9FAF8;
+}
+a:hover, a:active{
+    text-decoration: underline;
+}
+.main-header{
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: column;
+}
+.top-header{
+    padding: 20px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left-top-header{
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: bold;
+    flex: 3;
+}
+
+.right-top-header{
+    display: flex;
+    justify-content: space-between;
+    flex: 5;
+}
+
+.bottom-header{
+    color: #F9FAF8;
+    display: flex;
+    padding: 25px;
+}
+
+img{
+    max-width: 100%;
+    margin: 80px;
+}
