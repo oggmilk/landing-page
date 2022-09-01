@@ -45,7 +45,7 @@ a:hover, a:active{
     color: #F9FAF8;
     display: flex;
     padding: 25px;
-    justify-content: space-between;
+    justify-content: center;
     gap: 26px;
     align-items: center;
 }
@@ -53,12 +53,26 @@ a:hover, a:active{
 .left-bottom-header{
    
     display: flex;
-    flex-flow: column wrap;
+    flex-flow: column nowrap;
     flex-grow: 1;
-    justify-content: center;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 30px;
 }
 img{
-    max-width: 50vw;   
+    max-width: 50vw;
+    
+}
+
+.right-bottom-header{
+    justify-content: center;
+    padding: 150px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.bot-head-text{
+    font-size: 22px;
 }
 
 ul{
@@ -67,5 +81,14 @@ ul{
 
 .bot-head-title{
     font-size: 48px;
-    font-weight: bolder;
+    font-weight: extra-bold;
+}
+
+.bot-head-button{
+    align-self: center;
+}
+
+.button{
+    background-color: blue;
+    
 }
