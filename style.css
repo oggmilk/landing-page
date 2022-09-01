@@ -54,9 +54,13 @@ a:hover, a:active{
    
     display: flex;
     flex-flow: column wrap;
-    
+
     
 }
 img{
     max-width: 50vw;   
+}
+
+ul{
+    list-style: none;
 }
