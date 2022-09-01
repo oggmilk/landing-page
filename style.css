@@ -3,6 +3,12 @@ html, body{
     padding: 0;
 }
 
+@media screen and (max-width: 500px) {
+    *{
+      flex-direction: column;
+    }
+  }
+
 a:link, a:visited{
     text-decoration: none;
     color: #F9FAF8;
@@ -41,7 +47,7 @@ a:hover, a:active{
     padding: 25px;
     justify-content: space-between;
     gap: 26px;
-
+    align-items: center;
 }
 
 .left-bottom-header{
@@ -58,6 +64,6 @@ a:hover, a:active{
 
 
 img{
-    max-width: 50vh;
+    max-width: 45vh;
     max-height: auto;
 }
