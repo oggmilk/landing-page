@@ -40,6 +40,7 @@ a:hover, a:active{
     display: flex;
     padding: 25px;
     justify-content: space-between;
+    gap: 26px;
 
 }
 
