@@ -41,7 +41,18 @@ a:hover, a:active{
     padding: 25px;
 }
 
+.left-bottom-header{
+    flex-basis: auto;
+    display: flex;
+    flex-flow: column wrap;
+    word-wrap: break-word;
+}
+.right-button-header{
+    flex-grow: 2;
+    flex-basis: 100%;
+
+}
 img{
     max-width: 100%;
-    margin: 80px;
+    max-height: auto;
 }
