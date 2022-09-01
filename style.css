@@ -39,20 +39,24 @@ a:hover, a:active{
     color: #F9FAF8;
     display: flex;
     padding: 25px;
+    justify-content: space-between;
+
 }
 
 .left-bottom-header{
-    flex-basis: auto;
+   
     display: flex;
     flex-flow: column wrap;
     word-wrap: break-word;
+    flex: 1, 1, 1;
 }
 .right-button-header{
-    flex-grow: 2;
-    flex-basis: 100%;
-
-}
-img{
+    flex: 1, 1, 1;
     max-width: 100%;
+}
+
+
+img{
+    max-width: 50vh;
     max-height: auto;
 }
