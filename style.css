@@ -54,16 +54,9 @@ a:hover, a:active{
    
     display: flex;
     flex-flow: column wrap;
-    word-wrap: break-word;
-    flex: 1, 1, 1;
+    
+    
 }
-.right-button-header{
-    flex: 1, 1, 1;
-    max-width: 100%;
-}
-
-
 img{
-    max-width: 45vh;
-    max-height: auto;
+    max-width: 50vw;   
 }
