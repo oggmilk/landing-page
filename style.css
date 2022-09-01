@@ -54,8 +54,8 @@ a:hover, a:active{
    
     display: flex;
     flex-flow: column wrap;
-
-    
+    flex-grow: 1;
+    justify-content: center;
 }
 img{
     max-width: 50vw;   
@@ -63,4 +63,9 @@ img{
 
 ul{
     list-style: none;
+} 
+
+.bot-head-title{
+    font-size: 48px;
+    font-weight: bolder;
 }
