@@ -9,6 +9,9 @@ a:link, a:visited{
 a:hover{
     text-decoration: underline;
 }
+h3{
+    margin:0;
+}
 .header{
     background-color: #1F2937;
     display: flex;
@@ -64,5 +67,4 @@ a:hover{
     background-size: cover;
     width: 400px;
     height: 300px
-
 }
