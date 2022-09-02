@@ -54,7 +54,7 @@ h3{
     font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .bot-head-text{
-    color: #F9FAF8;
+    color: #f9faf8b0;
     justify-self: flex-start;
     
     font-size: larger;
@@ -70,4 +70,11 @@ h3{
     width: 425px;
     height: 300px;
     border-radius: 25px;
+}
+.button{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 10px;
+    font-size: 25px;
+    border-color: none;
 }
