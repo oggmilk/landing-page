@@ -108,11 +108,12 @@ h4{
     justify-content: center;
 }
 .Li-pic{
-    background-color: #1F2937;
     height: 200px;
     width: 200px;
     border-radius: 30px;
     margin-bottom: 10px;
+    background-image: url(images/tidepool.jpg);
+    background-size: cover;
 }
 .Li-text{
     font-size: 20px;
@@ -128,11 +129,13 @@ h4{
     justify-content: center;
 }
 .No-pic{
-    background-color: #1F2937;
     height: 200px;
     width: 200px;
     border-radius: 30px;
     margin-bottom: 10px;
+    background-image: url(images/tidepool.jpg);
+    background-size: cover;
+}
 }
 .No-text{
     font-size: 20px;
@@ -147,11 +150,12 @@ h4{
     justify-content: center;
 }
 .Ol-pic{
-    background-color: #1F2937;
-    height: 200px;
+   height: 200px;
     width: 200px;
     border-radius: 30px;
     margin-bottom: 10px;
+    background-image: url(images/tidepool.jpg);
+    background-size: cover;
 }
 .Ol-text{
     font-size: 20px;
@@ -166,12 +170,14 @@ h4{
     justify-content: center;
 }
 .El-pic{
-    background-color: #1F2937;
     height: 200px;
     width: 200px;
     border-radius: 30px;
     margin-bottom: 10px;
+    background-image: url(images/tidepool.jpg);
+    background-size: cover;
 }
+
 .El-text{
     font-size: 20px;
     color: #1F2937;
