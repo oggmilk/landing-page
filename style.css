@@ -66,5 +66,6 @@ h3{
     background-image: url(images/tidepool.jpg);
     background-size: cover;
     width: 400px;
-    height: 300px
+    height: 300px;
+    border-radius: 25px;
 }
