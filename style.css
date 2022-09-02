@@ -96,10 +96,13 @@ h4{
     justify-content: space-between;
     margin-left: 20vw;
     margin-right: 20vw;
+    align-items: baseline;
 }
 .Liam{
     display: flex;
     flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
 }
 .Li-pic{
     background-color: #1F2937;
@@ -107,9 +110,17 @@ h4{
     width: 200px;
     border-radius: 30px;
 }
+.Li-text{
+    font-size: 20px;
+    color: #1F2937;
+    max-width: 205px;
+
+}
 .Noah{
     display: flex;
     flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
 }
 .No-pic{
     background-color: #1F2937;
@@ -117,9 +128,16 @@ h4{
     width: 200px;
     border-radius: 30px;
 }
+.No-text{
+    font-size: 20px;
+    color: #1F2937;
+    max-width: 205px;
+}
 .Oliver{
     display: flex;
     flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
 }
 .Ol-pic{
     background-color: #1F2937;
@@ -127,13 +145,25 @@ h4{
     width: 200px;
     border-radius: 30px;
 }
+.Ol-text{
+    font-size: 20px;
+    color: #1F2937;
+    max-width: 205px;
+}
 .Elijah{
     display: flex;
     flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
 }
 .El-pic{
     background-color: #1F2937;
     height: 200px;
     width: 200px;
     border-radius: 30px;
+}
+.El-text{
+    font-size: 20px;
+    color: #1F2937;
+    max-width: 205px;
 }
