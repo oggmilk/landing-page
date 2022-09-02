@@ -30,7 +30,7 @@ h3{
 }
 .left-top-header{
     font-size: 42px;
-    font-family: "Brush Script Std", cursive;
+    font-family: "Brush Script Std", cursive, 'Times New Roman', Times, serif;
 }
 .right-top-header{
     display: flex;
