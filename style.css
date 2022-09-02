@@ -109,12 +109,14 @@ h4{
     height: 200px;
     width: 200px;
     border-radius: 30px;
+    margin-bottom: 10px;
 }
 .Li-text{
     font-size: 20px;
     color: #1F2937;
     max-width: 205px;
-
+    display: flex;
+    text-align: center;
 }
 .Noah{
     display: flex;
@@ -127,11 +129,13 @@ h4{
     height: 200px;
     width: 200px;
     border-radius: 30px;
+    margin-bottom: 10px;
 }
 .No-text{
     font-size: 20px;
     color: #1F2937;
     max-width: 205px;
+    text-align: center;
 }
 .Oliver{
     display: flex;
@@ -144,11 +148,13 @@ h4{
     height: 200px;
     width: 200px;
     border-radius: 30px;
+    margin-bottom: 10px;
 }
 .Ol-text{
     font-size: 20px;
     color: #1F2937;
     max-width: 205px;
+    text-align: center;
 }
 .Elijah{
     display: flex;
@@ -161,9 +167,11 @@ h4{
     height: 200px;
     width: 200px;
     border-radius: 30px;
+    margin-bottom: 10px;
 }
 .El-text{
     font-size: 20px;
     color: #1F2937;
     max-width: 205px;
+    text-align: center;
 }
