@@ -84,6 +84,9 @@ h4{
     font-size: 25px;
     border-color: none;
 }
+.bot-head-button{
+    align-self: flex-start;
+}
 .main1-top{
     display: flex;
     justify-content: center;
