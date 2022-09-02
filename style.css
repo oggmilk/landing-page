@@ -65,7 +65,9 @@ ul{
     align-items: center;
 }
 .header-pic{
-    background-color: grey;
+    background-image: url(images/tidepool.jpg);
+    background-size: cover;
     width: 400px;
     height: 300px
+
 }
