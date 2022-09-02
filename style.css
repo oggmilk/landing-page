@@ -51,14 +51,13 @@ h3{
 .bot-head-title{
     color: #F9FAF8;
     font-size: 48px;
-    padding-bottom: 0;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .bot-head-text{
     color: #F9FAF8;
     justify-self: flex-start;
-}
-.bot-head-button{
-    align-self: flex-end;
+    
+    font-size: larger;
 }
 .right-bottom-header{
     display: flex;
