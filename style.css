@@ -88,5 +88,52 @@ h4{
     display: flex;
     justify-content: center;
     padding-top: 45px;
+    padding-bottom: 45px;
     font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.main1-bottom{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+.Liam{
+    display: flex;
+    flex-flow: column wrap;
+}
+.Li-pic{
+    background-color: #1F2937;
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+}
+.Noah{
+    display: flex;
+    flex-flow: column wrap;
+}
+.No-pic{
+    background-color: #1F2937;
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+}
+.Oliver{
+    display: flex;
+    flex-flow: column wrap;
+}
+.Ol-pic{
+    background-color: #1F2937;
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+}
+.Elijah{
+    display: flex;
+    flex-flow: column wrap;
+}
+.El-pic{
+    background-color: #1F2937;
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
 }
