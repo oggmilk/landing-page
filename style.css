@@ -2,6 +2,11 @@ html, body{
     margin: 0;
     padding: 0;
 }
+@media screen and (max-width: 500px) {
+    *{
+      flex-direction: column;
+    }
+  }
 a:link, a:visited{
     text-decoration: none;
     color: #F9FAF8;
